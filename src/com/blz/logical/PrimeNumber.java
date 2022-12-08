@@ -1,3 +1,5 @@
+package com.blz.logical;
+
 import java.util.Scanner;
 
 public class PrimeNumber {
